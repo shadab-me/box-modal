@@ -1,11 +1,43 @@
 .zero,
 .one,
-.two
-{
+.two, 
+.three,
+.four{
     width: 220px;
     height: 240px;
     background-color:red;
+    margin: 15px;
+}
+ 
+ .one, .two, .three, .four{
+     display: inline-block;
  }
+
  .zero{
-     border: 2px solid black;
+    border: 2px solid black;
+}
+.one{
+    border: 2px double black;
+}
+.two{
+    border: 2px dashed black;
+}
+.three{
+    border: 2px dotted black;
+}
+
+main{
+    width: 360px;
+    height: 320px;
+    background-color: red;
+    text-align: justify;
+    border-top:10px solid yellow;
+    border-left: 10px solid blue;
+    border-right: 10px solid green;
+    border-bottom:10px solid orange;
+    outline: 20px solid rgb(69, 118, 182);
+    margin: 20px;
  }
+p{
+    padding: 10px;
+}
