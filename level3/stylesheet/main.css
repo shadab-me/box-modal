@@ -47,7 +47,9 @@ table {
 	border-spacing: 0;
 }
 
- 
+ p{
+     padding:10px;
+ }
 section{
     width: 920px;
     margin: 0 auto;
@@ -67,5 +69,32 @@ width: 40%;
     width: 24%;
 }
 .one{
-    background-color: ;
+    background-color: #FFA500;
+}
+
+.two{
+    background-color: #9ACD32;
+}
+.three{
+    background-color: #4169E1;
+}
+.four{
+    background-color: #F4A460;
+}
+.five{
+    background-color: #FFFF00;
+
+}
+.six{
+    background-color: #228B22;
+}
+.six{
+    background-color: #F08080;
+}
+.eight{
+    background-color: #000080;
+
+}
+.nine{
+    background-color: #A0522D;
 }
