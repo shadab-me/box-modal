@@ -46,3 +46,20 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+.box-one,
+.box-two{
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+    border: 10px dotted black;
+    background-color: blue;
+}
+.box-two{
+    box-sizing: border-box;
+}
+h2{
+    font-size: 24px;
+    margin: 20px;
+}
