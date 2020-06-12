@@ -49,3 +49,8 @@ table {
 body{
 	background-color: #293f50;
 }
+.top-heading{
+	text-align: center;
+	color: white;
+	font-size: 24px;
+}
