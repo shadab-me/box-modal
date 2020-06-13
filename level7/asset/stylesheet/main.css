@@ -102,11 +102,13 @@ article img{
 .one{
 	background-color: rgb(18, 18, 211);
 	margin: 0;
+	border: none;
 
 }
 .two{
 	background-color: rgb(18, 18, 245);
 	margin: 0;
+	border: none;
 }
 .three{
 	background-color: rgb(18, 18, 195);
