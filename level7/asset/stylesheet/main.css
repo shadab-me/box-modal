@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+
 }
 ol, ul {
 	list-style: none;
@@ -51,6 +52,7 @@ h1{
 	border-bottom: 1px solid gray;
 	padding-bottom: 30px;
 	color: white;
+	font-weight: 600;
 
 }
 h3{
@@ -60,6 +62,7 @@ h3{
  
 body{
 	background-color: #293f50;
+	font-family: 'Lato', sans-serif;
 }
 a{
 	text-decoration: none;
@@ -96,10 +99,11 @@ section h1{
 }
 article p{
 	margin: 0;
- 	padding-bottom: 25px;
+ 	padding: 25px;
 	color: white;
 	opacity: .8;
-}
+	font-size: 18px;
+ }
 article h3{
 	padding: 66px 0px 0 35px;
 }
