@@ -46,6 +46,11 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+hr{
+	border: 1px dotted gray;
+	opacity: .5;
+	margin-bottom: 50px;
+}
 .container{
 	width: 600px;
 	margin: 0 auto;
@@ -56,4 +61,30 @@ h1{
 }
 h2{
 	font-size: 24px;
+}
+.box-one{
+	text-align: center;
+	border: 1px solid black;
+}
+.grid{
+	border: 1px solid black;
+	padding: 10px;
+}
+.box{
+	width: 180px;
+	height: 100px;
+	margin: 5px;
+	background-color: #f2f2f2;
+	display: inline-block;
+}
+.box-five, 
+.box-six,
+.box-seven{
+	border: 1px solid black;
+}
+.box-eight,
+.box-nine,
+.box-ten{
+	border: 1px solid black;
+	box-sizing: border-box;
 }
