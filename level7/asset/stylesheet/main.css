@@ -96,20 +96,6 @@ section p{
 	display: inline-block;
 	padding: 10px;
 }
-article img{
-	border-radius: 50%;
-}
-.one{
-	background-color: rgb(18, 18, 211);
-	margin: 0;
-	border: none;
-
-}
-.two{
-	background-color: rgb(18, 18, 245);
-	margin: 0;
-	border: none;
-}
-.three{
-	background-color: rgb(18, 18, 195);
-}
+ article{
+	 background-color: blue;
+ }
