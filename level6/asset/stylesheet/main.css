@@ -50,6 +50,7 @@ hr{
 	border: 1px dotted gray;
 	opacity: .5;
 	margin-bottom: 50px;
+	margin-top: 30px;
 }
 .container{
 	width: 600px;
@@ -60,11 +61,19 @@ h1{
 	font-size: 48px;
 }
 h2{
+	opacity: .8;
+	font-size: 30px;
+}
+h3{
 	font-size: 24px;
+	margin: 10px;
+	opacity: .7;
+	padding: 20px;
 }
 .box-one{
-	text-align: center;
-	border: 1px solid black;
+   border: 5px solid black;
+   outline: 20px solid lightcoral;
+   box-shadow: -1px -1px 0 20px #add8e6 inset
 }
 .grid{
 	border: 1px solid black;
